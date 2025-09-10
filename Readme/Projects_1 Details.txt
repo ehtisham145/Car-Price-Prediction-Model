@@ -1,0 +1,12 @@
+
+Price Prediction Project :
+
+The Price Prediction Project is a comprehensive hands-on assignment given to students of our Data Science & Machine Learning Course. In this project, students will work with historical datasets to build machine learning models capable of predicting future prices for various products or services.
+
+Students will:
+
+Clean and preprocess raw data to make it suitable for analysis
+Use feature engineering to identify key variables influencing price trends
+Experiment with different machine learning algorithms such as linear regression, decision trees, and more advanced models like random forests or XGBoost
+Evaluate model performance using metrics such as RMSE (Root Mean Squared Error) and MAE (Mean Absolute Error)
+This project not only focuses on technical skills like model building and evaluation but also challenges students to think critically about the business applications of price prediction, such as inventory management, demand forecasting, and dynamic pricing strategies. The goal is to help students gain the skills needed to create accurate, data-driven pricing models applicable in real-world scenarios.
